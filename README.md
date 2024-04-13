@@ -1,11 +1,4 @@
-# E-BookStore_Tatvasoft
-<img src="bookstore.png" width="900">
-
-# Live Project Link: 
-https://ebookstore-tatvasoft.netlify.app/
-
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
-
+# E.A.C BookStore
 ## Sections 📚
 ✔️ Login\
 ✔️ Register\
